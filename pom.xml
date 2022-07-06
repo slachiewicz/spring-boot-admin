@@ -17,7 +17,7 @@
 	<url>https://github.com/codecentric/spring-boot-admin/</url>
 	<properties>
 		<spring-boot.version>1.2.1.RELEASE</spring-boot.version>
-		<hazelcast.version>3.3.3</hazelcast.version>
+		<hazelcast.version>3.11</hazelcast.version>
 		<main.basedir>${basedir}</main.basedir>
 		<passphrase>${gpg.passphrase}</passphrase>
 	</properties>
